@@ -10,7 +10,7 @@ For running the .sh files a unix terminal is needed. If you are a windows user, 
 * Now a terminal of ubuntu opens.
 # Get started
 * Clone the repository or download the zip file.
-* In the terminal, Run " git clone <repository> "
+* In the terminal, Run " git clone https://github.com/thearjnep/the-first-battle.git "
 * Run " cd the-first-battle "
 * Run " bash thefirstbattle.sh "
 # How to play
